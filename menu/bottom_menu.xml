@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/mainFragment"
+        android:title="Home"
+        android:tooltipText="Home"/>
+
+    <item
+        android:id="@+id/chatFragment"
+        android:title="Chat"
+        android:tooltipText="Chat"/>
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="Settings"
+        android:tooltipText="Settings"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:tooltipText="Profile"/>
+
+</menu>
